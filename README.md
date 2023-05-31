@@ -1,2 +1,3 @@
-# Qoogle.io
-Qoogle C# code
+# 666encryption
+
+Very excellent encryption/decryption algorithm in the world!
