@@ -1,3 +1,3 @@
 # 666encryption
 
-Very excellent encryption/decryption algorithm in the world!
+Qoogle is a P2P open source electronic quantum money system.
